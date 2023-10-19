@@ -1,0 +1,22 @@
+[
+  {
+    "movie": {
+      "name": "Oppenheimer",
+      "duration": 180
+    },
+    "theater": {
+      "name": "Theater1",
+      "seats": 20
+    }
+  },
+  {
+    "movie": {
+      "name": "Test",
+      "duration": 150
+    },
+    "theater": {
+      "name": "Theater2",
+      "seats": 50
+    }
+  }
+]
